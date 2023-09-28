@@ -1,0 +1,1397 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass heb-article
+\begin_preamble
+\usepackage{culmus}
+
+% Convert the Lyx colors into more pleasent colors:
+\usepackage{xcolor}
+\definecolor{blue}{RGB}{14,107,217}
+\definecolor{green}{RGB}{0,158,40}
+\definecolor{red}{RGB}{235,16,16}
+\definecolor{brown}{RGB}{164,66,0}
+\definecolor{orange}{RGB}{231,135,26}
+\definecolor{purple}{RGB}{94,53,177}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 2cm
+\rightmargin 1cm
+\bottommargin 3cm
+\headheight 0cm
+\headsep 0cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation 0bp
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "c"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "20pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\paragraph_spacing double
+\align center
+
+\series bold
+\size huge
+)76921( ראיה אנושית גישה חישובית | תרגיל
+\family roman
+\shape up
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+שם: רונאל חרדים | ת
+\begin_inset Quotes erd
+\end_inset
+
+ז:
+\lang english
+208917641
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\family roman
+\series bold
+\shape up
+\size larger
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\begin_layout Standard
+הריבוע השמאלי שנמצא על הרקע הכהה, נראה לנו בהיר יותר.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+תמונת הלפלסיאן שקיבלנו לאחר הפעלת הלפלסיאן על התמונה ללא 
+\begin_inset Formula $threshold$
+\end_inset
+
+: 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/q3.1.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+התמונה לאחר הפעלת 
+\begin_inset Formula $threshold=10$
+\end_inset
+
+:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/q3.2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+לקחנו את התמונה 
+\begin_inset Formula $cross$
+\end_inset
+
+, וכפי שניתן לראות אנחנו רואים את ה 
+\begin_inset Formula $X$
+\end_inset
+
+ על התמונה.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/q4.1.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+לאחר הפעלת 
+\begin_inset Formula $threshild=5$
+\end_inset
+
+ קיבלנו את התמונה הבאה:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q4.2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+התמונה לאחר הפעלת לפלסיאן:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q5.1.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+התמונה לאחר הפעלת 
+\begin_inset Formula $threshold=10$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q5.2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+התמונה לאחר הפעלת 
+\begin_inset Formula $threshold=20$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q5.3.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+הסבר:
+\end_layout
+
+\begin_layout Standard
+ההסבר לאשליה הזאת מורכבת יותר, משום שאין גבול ברור של מעבר צבעים, אלא הטבעת
+ מתפתלת על פני רקעים שונים.
+ לכן כדי להסביר את התופעה הזאת נצטרך הסבר משוכלל יותר.
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+6
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+את התופעה הראשונה אכן ניתן להסביר באמצעות לפלסיאן והבדלי צבע מהרקע.
+ משום שהריבוע שנמצא על הרקע הבהיר יותר נראה לנו כהה יותר, ולהיפך.
+ קל לראות את הבדלי הצבע.
+\end_layout
+
+\begin_layout Standard
+התמונה השניה, גם בה יש הבדלי צבע באופן מדורג, וניתן להסביר כי הבדלי הצבע
+ יוצרים אצלנו נגזרת וכך אנו מבחינים בהבדל, וזה יותר את ה 
+\begin_inset Formula $X$
+\end_inset
+
+ .
+\end_layout
+
+\begin_layout Standard
+את התמונה השלישית קשה יותר להסביר בשיטה זו, משום שהגבולות של שני חצאי הטבעת
+ דועכים באותו קצב ביחד עם הגדלת הסף.
+ ניתן להסביר אותה בעזרת אלגוריתמים שראינו בכיה, לפיהם העין האנושית מבצעת
+ חישוב מורכב יותר, החל מהפיקסל הבהיר ביותר בתמונה שאותו היא משווה ללבן.
+ לאחר מכן היא מבצעת חישובים למציאת 
+\begin_inset Formula $\rho(x,y)$
+\end_inset
+
+ של כל פיקסל בתמונה, עפ ערך 
+\begin_inset Formula $L$
+\end_inset
+
+ קבוע לכל התמונה.
+ המח שלנו מחפש תמונות שלמות ומשלים את הצורה, ומתעלם מהרקע.
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+8
+\numeric off
+ 
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+עבור 
+\begin_inset Formula $twoSquares(1)$
+\end_inset
+
+ קיבלנו:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q8.1.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+התמונה 
+\begin_inset Formula $L$
+\end_inset
+
+ שהתקבלה:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q8.1 - L.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+התמונה 
+\begin_inset Formula $R$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q8.1 - R.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+הגרף של האלכסון שקיבלנו:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q8.1 - d.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+עבור 
+\begin_inset Formula $twoSquares(2)$
+\end_inset
+
+ קיבלנו:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q8.2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+עבור 
+\begin_inset Formula $L$
+\end_inset
+
+ קיבלנו:
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/q8.2 - L.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+עבור 
+\begin_inset Formula $R$
+\end_inset
+
+ קיבלנו:
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+
+\begin_inset Graphics
+	filename images/q8.2 - R.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+הגרף של האלכסון שקיבלנו:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q8.2 - d.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+הסבר:
+\end_layout
+
+\begin_layout Standard
+כשאנו מסתכלים על האלכסון אנו רואים כי יש שינוי בין ה 
+\begin_inset Formula $R$
+\end_inset
+
+ של שתי התמונות.
+ זה נובע מכך שההנחה הראשונה לא מתקיימת.
+ כלומר יש כאן גרדיאנטים שנובעים גם מ 
+\begin_inset Formula $Reflectance$
+\end_inset
+
+ וגם מ 
+\begin_inset Formula $Illumination$
+\end_inset
+
+.
+ לפי ההנחה הראשונה של אלגוריתם הרטינקס, כל שינוי הוא שינוי בגורם יחיד )תאורה
+ או החזרה( אך לא בשניהם.
+ בתמונה השניה ההנחה הזו מופרת - השינוי בתאורה )ה"צל" האפור( והשינוי במקדם
+ ההחזרה )הריבוע הלבן( מופיעים ביחד, ולא ניתן להפריד בצורה ברורה בין הגבולות
+ שלהם.
+ הדבר גורם להפרה של ההנחה ולביצועים פחות טובים של האלגוריתם.
+\end_layout
+
+\begin_layout Standard
+שינוי ה 
+\begin_inset Formula $Treshold$
+\end_inset
+
+ לא ישנה את הגרף של
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+, אלא רק הגרף של
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+השתנה.
+ משום שהסף קובע את הנקודה בה מבחינים בין תאורה לבין החזרה - אך מכיוון שבמקרה
+ זה שניהם משתנים יחד, בחירת סף שונה לא תשפיע.
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+9
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+תחילה בדקנו וראינו כי הצבע של שתי המשבצות שווה ל 
+\begin_inset Formula $0.4196$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+התמונה המקורית:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/q9.1.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+כאשר הדפסנו את 
+\begin_inset Formula $R$
+\end_inset
+
+ של שתי המשבצות קיבלנו כי:
+\end_layout
+
+\begin_layout Standard
+התוצאה שקיבלנו היא : 
+\begin_inset Formula 
+\[
+\text{calculated reflectance of the two checks: 0.5665 , 0.8768}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+כלומר, למרות ששתי הקוביות באותו הצבע, קיבלנו 
+\begin_inset Formula $R$
+\end_inset
+
+ שונה.
+ זה מתכתב עם האשליה כי קוביה 
+\begin_inset Formula $B$
+\end_inset
+
+ נראית בהירה יותר מקוביה 
+\begin_inset Formula $A$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/q9 - 0.07.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+האלגוריתם נכשל כאשר:
+\end_layout
+
+\begin_layout Standard
+המשבצות המוצללות הקרובות לגליל.
+ במשבצות אלה, חל שינוי במקדם ההחזרה וברכיב התאור במקביל.
+ בסתירה להנחת האלגוריתם כי רק אחת מהתופעות מתרחשת.
+ האלגוריתם "מניח" שמדובר בשינוי במקדם ההחזרה בלבד, ולכן לא מחלץ אותו כראוי.
+ אם נעלה את הסף, יותר שינויים חדים ייתפסו כשינויים ברכיב התאורה, ואז התופעה
+ השלילית באזור זה תשתפר.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+בצד הימני של הגליל - באזור זה מתרחשת "מריחה" אפורה על הרקע הלבן )ש"מאחורי"
+ הגליל(.
+ מבחינת האלגוריתם, כנראה שהשינוי ההדרגתי בתאורה לרוחב הגליל ממשיך גם במעבר
+ מהגליל אל הרקע הלבן.
+ הדבר סותר את ההנחה של אלגוריתם לפיה שינויים הדרגתיים הם שינויי תאורה )במקרה
+ הזה, השינוי ההדרגתי מהגליל אל הרקע הוא שינוי במקדם ההחזרה, שנתפס ע"י האלגוריתם
+ כשינוי תאורה(.
+ אם נוריד את הסף, נעלה את הסיכוי ששינויים עדינים ייתפסו כשינויים במקדם ההחזרה,
+ ובכך נשפר את ההפרדה של הגליל מהרקע.
+\end_layout
+
+\begin_layout Subsection*
+)ג(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+שינוי ערך הסף - לא יעזור מכיוון ש: 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+אם נגדיל את ערך הסף ל
+\family roman
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+0.2
+\numeric off
+: 
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+נקבל את התוצאות הבאות: 
+\begin_inset Formula 
+\[
+\text{calculated reflectance of the two checks: 0.7365, 0.9695}
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/q9 - 0.2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+אם נקטין את ערך הסף ל
+\family roman
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+0.02
+\numeric off
+: 
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+נקבל את התוצאות הבאות: 
+\begin_inset Formula 
+\[
+\text{calculated reflectance of the two checks: 0.5067,  0.5819}
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/q9 - 0.2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ראינו אם כן כי שינוי ערך הסף לא יפתור את הבעיה.
+ משום שיש לנו טרייד אוף.
+ העלאת הסף משפרת את הבעיה באזור הראשון אך מחמירה את הבעיה באזור השני, ולהיפך
+ - מפני שהשיפורים שהיינו רוצים לבצע בכל אזור באים אחד על חשבון השני.
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+10
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+התמונה המקורית היא התמונה הבאה:
+\series default
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/q10.1.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+לאחר הפעלת האלגוריתם עם 
+\begin_inset Formula $T=[0.05,0.15]$
+\end_inset
+
+ עם קפיצות בגודל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+, קיבלנו את התוצאות הבאות:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/q10.2.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+הסבר:
+\end_layout
+
+\begin_layout Standard
+אנו רואים כי האלגוריתם לא מצליח להסיר את הצל בצורה הנכונה.
+ וככל שהסף גדל - כך הצל נעלם מהרצפה, אך במקביל הידיים מתמזגות עם הרצפה.
+\end_layout
+
+\begin_layout Standard
+בנוסף,הצל שמושפה מהאלגוריתם הינו הצל הרחוק יותר מהגוף.
+ בעוד הצל הקרוב לגוף )הצל שנוצר מהיד( לא מושפע כלל.
+\end_layout
+
+\begin_layout Standard
+הסיבה לכשלון היא: הצל יוצר שינויים חדים בגבול הצל והרצפה, בשונה מהנחת האלגוריתם
+ כי שינויים חדים לא נוצרים מתאורה, אלא ממקדם ההחזרה.
+\end_layout
+
+\begin_layout Standard
+לכן, האלגוריתם מפרש את השינויים הללו כשינויים במקדם ההחזרה, ולא כשינויי
+ תאורה.
+\end_layout
+
+\begin_layout Standard
+בנוסף, גוון הצל והרצפה דומים ולכן אם אחד מהם משתנה, השני משתנה יחד איתם.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+שינויים האלגוריתם לא ישפרו את המצב משום שהשינויים במקדם ההחזרה והתאורה מתנהגים
+ באופן דןמה.
+ שינוי הסף משפיע רק על הנקודהבה הצל והיד מתמזגים עם הקרקע, אך הוא לא תורם
+ להפרדה בניהם.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+כדי לעזור לאלגוריתם, ניתן לסמן את מיקומו של האצן ומיקומו של הצל, באופן כזה
+ כשיש הבדל ברור יש יותר סיכויי שהאלגוריתם יצליח לבצע את ההפרדה כראוי.
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+11
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+התמונה המקורית:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q11.1.jpg
+	scale 50
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+התמונות לאחר הפעלת האלגוריתם:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/q11.2.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+הסבר:
+\end_layout
+
+\begin_layout Standard
+ניתן לראות כי האלגוריתם אכן עובד טוב על התמונה הנוכחית.
+\end_layout
+
+\begin_layout Standard
+הצל שנמצא מתחת לספה נעלם אפילו כאשר 
+\begin_inset Formula $T$
+\end_inset
+
+ נמוך.
+ אך נוצרת הילה מאחורי הספה, בנוסף הצל שנוצר ממשענות היד ומשענת הספה לא נעלם.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+האלגוריתם עובד על התמונה הזאת טוב יותר, משום שהתמונה יותר מתאימה להנחות
+ האלגוריתם.
+ באמת השינויים החדים הם בגבולות הספה, ומתרחשים בגלל החזרי האור.
+ בנוסף, ההנחה השניה מתקיימת ואין שינויי החזרה ותאורה שמתרחשים במקביל.
+\end_layout
+
+\begin_layout Standard
+לגבי הצל שנוצר מידיות הספה, הוא לא נעלם משום שהתאורה יוצרת שינוי חד בניגוד
+ להנחת האלגוריתם.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+האלגוריתם מצליח על תמונה זו משום שהיא מתכתבת עם הנחות האלגוריתם, והיא טבעית
+ יותר.
+ בניגוד לתמונה הקודמת.
+\end_layout
+
+\end_body
+\end_document
